@@ -27,7 +27,7 @@ docs/secret/
 tests/integration/
 tests/regression/
 tests/unit/
-tools/
+/tools/
 
 rule.md
 models/
